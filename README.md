@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td align="left">
-       <img src="./assets/greet.gif" width="600">
+       <img src="./assets/greet.gif" width="300">
     </td>
     <td align="right">
-      <h1 align="center">🕵️‍♀️ Hi there, I'm Eli 👾</h1>
+      <h1 align="center">🕵️‍♀️ Hi there, I'm Eli (pronounced 'Eh-lee', like in Spanish, not 'Elai'😉) 👾</h1>
     </td>
   </tr>
 </table>
