@@ -23,9 +23,74 @@
 
 **🎯 Looking for:** Cybersecurity Analyst · Junior Pentester  
 **📍 Status:** Available · Open to Work  
-**🛠️ Skills:** Web Security · Ethical Hacking · Bug Hunting
+**🛠️ Skills:** Vulnerability Analysis · Web Security · Ethical Hacking · Bug Hunting
 
-- 🌱 I’m currently studying **IFCT0109 - Computer Security (Official Level 3 Professional Certificate).**
+## 📚 Education
+
+- 🌱 I’m currently studying **IFCT0109 - Computer Security** (500h, IronHack, Official Level 3/C Professional Certificate, 2025).
+- BTEC L4 Higher National Certificate in Computing (MSMK University, 2024)
+- Cybersecurity Bootcamp (360h, The Bridge | Digital TalentAccelerator, 2024)
+    <details>
+      <summary>MODULE 1 - Fundamentals of Security and Systems:</summary>
+      - Bash scripts for task automation.
+      - HTML and JavaScript.
+      - Network packet analysis.
+      - OSI model.
+      - Cryptographic protocols.
+      - Pentesting and vulnerability analysis.
+      - Python scripts.
+    </details>
+
+    <details>
+      <summary>MODULE 2 - Offensive Security / Red Team:</summary>
+      - Internal and external audits.
+      - Creating technical reports and identifying risks.
+      - Developing cybersecurity projects.
+      - Monitoring of network security and testing.
+      - Vulnerability assessments and risk analysis.
+      - Best practices.
+    </details>
+
+    <details>
+      <summary>MODULE 3 - Defensive Security / Blue Team:</summary>
+      - Security risks and protecting of assets.
+      - Forensic analysis reports.
+      - Detecting threats and cyberattacks.
+      - Monitoring network security (software, firewalls, encryption).
+      - SIEM systems.
+    </details>
+  
+  ### 🔧 **TOOLS**
+- **Wireshark** ![Wireshark](https://img.shields.io/badge/tool-Wireshark-green)
+
+- **Burp Suite** ![Burp Suite](https://img.shields.io/badge/tool-Burp_Suite-orange)
+
+- **Nmap** ![Nmap](https://img.shields.io/badge/tool-Nmap-blue)
+
+- **Metasploit** ![Metasploit](https://img.shields.io/badge/tool-Metasploit-red)
+
+- **Kali Linux** ![Kali Linux](https://img.shields.io/badge/tool-Kali_Linux-black)
+
+- **Nessus (Tenable)** ![Nessus](https://img.shields.io/badge/tool-Nessus-blue) ( ![Tenable](https://img.shields.io/badge/tool-Tenable-lightblue) )
+
+- **Hydra** ![Hydra](https://img.shields.io/badge/tool-Hydra-red)
+
+- **Hashcat** ![Hashcat](https://img.shields.io/badge/tool-Hashcat-orange)
+
+- **Maltego** ![Maltego](https://img.shields.io/badge/tool-Maltego-lightgrey)
+
+- **Shodan** ![Shodan](https://img.shields.io/badge/tool-Shodan-yellow)
+
+- **theHarvester** ![theHarvester](https://img.shields.io/badge/tool-theHarvester-blue)
+
+- **John the Ripper** ![John the Ripper](https://img.shields.io/badge/tool-John_the_Ripper-green)
+
+- **OpenVAS** ![OpenVAS](https://img.shields.io/badge/tool-OpenVAS-red)
+
+- **Ettercap** ![Ettercap](https://img.shields.io/badge/tool-Ettercap-blueviolet)
+
+- **SQLMap** ![SQLMap](https://img.shields.io/badge/tool-SQLMap-orange)
+
 
 ## 🚀 Proyectos Actuales
 
@@ -43,7 +108,7 @@
 
 ---
 
-## 📚 Formación
+##  Formación
 
 - 🏴 Web Security Academy (PortSwigger)
 - 🎓 Bootcamp Ciberseguridad (2024)
