@@ -30,10 +30,11 @@
 <a href="https://www.credly.com/badges/ff1d38a6-5abc-4cbf-8bcf-9929ad029d61/linked_in_profile">
   <img src="https://github.com/ElisabethIld/ELisabethIld/blob/main/assets/cisco_CCST_cybersecurity.png" width="120" />
 </a>
+<a href="https://coursera.org/share/522d5d48fcdb3929f5fb03451592e029">
+  <img src="https://github.com/ElisabethIld/ELisabethIld/blob/main/assets/google_cybersecurity_badge.png" width="120" />
+</a>
 
-[![alt text](https://github.com/ElisabethIld/ELisabethIld/blob/main/assets/google_cybersecurity_badge.png)](https://coursera.org/share/522d5d48fcdb3929f5fb03451592e029)
-[![alt text](https://github.com/ElisabethIld/ELisabethIld/blob/main/assets/incibe_badge.png)](https://www.credly.com/badges/ff1d38a6-5abc-4cbf-8bcf-9929ad029d61/linked_in_profile)
-<img src="./assets/google_cybersecurity_badge.png" width="120"/> <img src="./assets/incibe_badge.png" width="120"/>
+<img src="./assets/incibe_badge.png" width="120"/>
 
 **TryHackMe** — [View Profile](https://tryhackme.com/p/yourusername)
 **Hack The Box** — [View Profile](https://app.hackthebox.com/profile/yourusername)
