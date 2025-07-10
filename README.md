@@ -34,13 +34,16 @@
   <img src="https://github.com/ElisabethIld/ELisabethIld/blob/main/assets/google_cybersecurity_badge.png" width="120" />
 </a>
 <a href="https://www.credly.com/badges/1e168c93-331b-472f-ad96-6d5ecfd8f4fb">
-  <img src="https://github.com/ElisabethIld/ELisabethIld/blob/main/assets/cisco_networking_academy.png" width="80" />
+  <img src="https://github.com/ElisabethIld/ELisabethIld/blob/main/assets/cisco_networking_academy.png" width="100" />
 </a>
-Introduction to Cybersecurity
 <img src="./assets/incibe_badge.png" width="120"/>
 
-**TryHackMe** — [View Profile](https://tryhackme.com/p/yourusername)
-**Hack The Box** — [View Profile](https://app.hackthebox.com/profile/yourusername)
+### In progress: 
+**TryHackMe** — [View Profile](https://tryhackme.com/p/elil4u)<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/elil4u.png"/><br>
+**Hack The Box** — [View Profile](https://app.hackthebox.com/profile/2096445)<br>
+<img width="321" height="99" alt="image" src="https://github.com/user-attachments/assets/e908553c-6998-42ad-b27e-560e3dc0017f" />
+
 
 ---
 
