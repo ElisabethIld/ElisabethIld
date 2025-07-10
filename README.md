@@ -27,8 +27,7 @@
 
 ## 🏅 My Certificates and Badges
 
-<img src="./assets/cisco_CCST_cybersecurity.png" width="120"/> 
-[![alt text](./assets/cisco_CCST_cybersecurity.png)](https://www.credly.com/badges/ff1d38a6-5abc-4cbf-8bcf-9929ad029d61/linked_in_profile)
+[![alt text](https://github.com/ElisabethIld/ELisabethIld/blob/main/assets/cisco_CCST_cybersecurity.png)](https://www.credly.com/badges/ff1d38a6-5abc-4cbf-8bcf-9929ad029d61/linked_in_profile)
 <img src="./assets/google_cybersecurity_badge.png" width="120"/> <img src="./assets/incibe_badge.png" width="120"/>
 
 **TryHackMe** — [View Profile](https://tryhackme.com/p/yourusername)
