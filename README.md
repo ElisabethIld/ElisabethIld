@@ -33,6 +33,10 @@
 <a href="https://coursera.org/share/522d5d48fcdb3929f5fb03451592e029">
   <img src="https://github.com/ElisabethIld/ELisabethIld/blob/main/assets/google_cybersecurity_badge.png" width="120" />
 </a>
+<a href="https://www.credly.com/badges/1e168c93-331b-472f-ad96-6d5ecfd8f4fb">
+  <img src="https://github.com/ElisabethIld/ELisabethIld/blob/main/assets/cisco_networking_academy.png" width="80" />
+</a>
+Introduction to Cybersecurity
 <img src="./assets/incibe_badge.png" width="120"/>
 
 **TryHackMe** — [View Profile](https://tryhackme.com/p/yourusername)
