@@ -28,6 +28,8 @@
 ## 🏅 My Certificates and Badges
 
 [![alt text](https://github.com/ElisabethIld/ELisabethIld/blob/main/assets/cisco_CCST_cybersecurity.png)](https://www.credly.com/badges/ff1d38a6-5abc-4cbf-8bcf-9929ad029d61/linked_in_profile)
+[![alt text](https://github.com/ElisabethIld/ELisabethIld/blob/main/assets/google_cybersecurity_badge.png)](https://coursera.org/share/522d5d48fcdb3929f5fb03451592e029)
+[![alt text](https://github.com/ElisabethIld/ELisabethIld/blob/main/assets/incibe_badge.png)](https://www.credly.com/badges/ff1d38a6-5abc-4cbf-8bcf-9929ad029d61/linked_in_profile)
 <img src="./assets/google_cybersecurity_badge.png" width="120"/> <img src="./assets/incibe_badge.png" width="120"/>
 
 **TryHackMe** — [View Profile](https://tryhackme.com/p/yourusername)
