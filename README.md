@@ -27,7 +27,7 @@
 
 ## 🏅 My Certificates and Badges
 
-<a href="[https://link-al-certificado.com](https://www.credly.com/badges/ff1d38a6-5abc-4cbf-8bcf-9929ad029d61/linked_in_profile)">
+<a href="https://www.credly.com/badges/ff1d38a6-5abc-4cbf-8bcf-9929ad029d61/linked_in_profile">
   <img src="https://github.com/ElisabethIld/ELisabethIld/blob/main/assets/cisco_CCST_cybersecurity.png" width="120" />
 </a>
 
