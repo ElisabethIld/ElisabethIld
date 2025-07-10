@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="left">
-       <img src="./assets/greet.gif" width="300">
+       <img src="./assets/greet.gif" width="500">
     </td>
     <td align="right">
       <h1 align="center">🕵️‍♀️ Hi there, I'm Eli (pronounced 'Eh-lee', like in Spanish, not 'Elai'😉) 👾</h1>
@@ -13,21 +13,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elisabethild&label=Profile%20views&color=0e75b6&style=flat" alt="elisabethild" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elisabethild" alt="elisabethild" /></a> </p>
-
 <h2 align="center">🎯 Exploit | 📋 Report | 🔐 Secure."<br>
   💬 "Ethical hacking is not a crime – it's a responsibility"
 </h2>
 
-<h3 align="center">Cybersecurity Specialist & Penetration Tester | Aspiring Bug Bounty Hunter</h3>
+<h3 align="center">Cybersecurity Specialist & Penetration Tester | OSINT Investigator | Aspiring Bug Bounty Hunter</h3>
 
-**🎯 Looking for:** Cybersecurity Analyst · Junior Pentester  
-**📍 Status:** Available · Open to Work  
-**🛠️ Skills:** Vulnerability Analysis · Web Security · Ethical Hacking · Bug Hunting
+**🎯 Looking for:** Cybersecurity Analyst · Junior Pentester · OSINT Analyst 
+**📍 Status: ✅** Available · Open to Work  
+**🛠️ Skills:** Vulnerability Analysis · Web Security · Ethical Hacking · Open Source Intelligence · Bug Hunting
 
 ---
 
 ## 🏅 My Certificates and Badges
+![INCIBE Badge](assets/incibe_badge.png)
+![TryHackMe Badge](https://link-a-tu-imagen.com/badge.png)
+![TryHackMe Badge](https://link-a-tu-imagen.com/badge.png)
 
 
 ---
@@ -110,5 +111,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elisabethild&show_icons=true&locale=en&layout=compact" alt="elisabethild" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elisabethild&show_icons=true&locale=en" alt="elisabethild" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elisabethild" alt="elisabethild" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elisabethild&" alt="elisabethild" /></p>
