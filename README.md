@@ -26,11 +26,15 @@
 ---
 
 ## 🏅 My Certificates and Badges
+
+![CCST Cybersecurity Badge](assets/cisco_CCST_cybersecurity.png)
+![Google Cybersecurity Badge](assets/google_cybersecurity_badge.png)
 ![INCIBE Badge](assets/incibe_badge.png)
-![TryHackMe Badge](https://link-a-tu-imagen.com/badge.png)
-![TryHackMe Badge](https://link-a-tu-imagen.com/badge.png)
 
 
+### 💪 Cybersecurity Bootcamps
+![The Bridge | Digital Talent Accelerator](assets/the_bridge.png)
+![IRONHACK](assets/ironhack.png)
 ---
 
 ## ⚙️ Study Platforms
