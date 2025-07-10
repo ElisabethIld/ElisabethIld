@@ -27,6 +27,8 @@
 
 ## 🏅 My Certificates and Badges
 
+<img src="./assets/cisco_CCST_cybersecurity.png" width="150" style="vertical-align: middle;"/> <img src="./assets/google_cybersecurity_badge.png" width="150" style="vertical-align: middle;"/> <img src="./assets/incibe_badge.png" width="150" style="vertical-align: middle;"/>
+
 ![CCST Cybersecurity Badge](assets/cisco_CCST_cybersecurity.png)
 ![Google Cybersecurity Badge](assets/google_cybersecurity_badge.png)
 ![INCIBE Badge](assets/incibe_badge.png)
