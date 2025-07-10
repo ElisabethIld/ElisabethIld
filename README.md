@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elisabethild&label=Profile%20views&color=0e75b6&style=flat" alt="elisabethild" /> </p>
 
-<h2 align="center">🎯 Exploit | 📋 Report | 🔐 Secure."<br>
+<h2 align="center">🎯 Exploit | 📋 Report | 🔐 Secure<br>
   💬 "Ethical hacking is not a crime – it's a responsibility"
 </h2>
 
@@ -33,27 +33,62 @@
 <a href="https://coursera.org/share/522d5d48fcdb3929f5fb03451592e029">
   <img src="https://github.com/ElisabethIld/ELisabethIld/blob/main/assets/google_cybersecurity_badge.png" width="120" />
 </a>
-
 <img src="./assets/incibe_badge.png" width="120"/>
 
 **TryHackMe** — [View Profile](https://tryhackme.com/p/yourusername)
 **Hack The Box** — [View Profile](https://app.hackthebox.com/profile/yourusername)
 
-![CCST Cybersecurity Badge](assets/cisco_CCST_cybersecurity.png)
-![Google Cybersecurity Badge](assets/google_cybersecurity_badge.png)
-![INCIBE Badge](assets/incibe_badge.png)
-
-
-### 💪 Cybersecurity Bootcamps
-![The Bridge | Digital Talent Accelerator](assets/the_bridge.png)
-![IRONHACK](assets/ironhack.png)
 ---
 
-## ⚙️ Study Platforms
+## 💪 Cybersecurity Bootcamps
 
-- 🏴 Web Security Academy (PortSwigger)
-- 💪 TryHackMe
-- 📦 HackTheBox
+<img src="./assets/ironhack.png" width="50"/> **IRONHACK, (IFCT0109) Information Security — Official Level 3 Professional Certificate** <br>
+(**EQF Level 4** — Spanish National Qualification Framework), **500h - 2025**
+
+### 📚 Modules completed:
+
+- **MF0486_3:** Computer Equipment Security — *90 hours*
+- **MF0487_3:** IT Security Auditing — *90 hours*
+- **MF0488_3:** IT Security Incident Management — *90 hours*
+- **MF0489_3:** Secure Data Access and Transmission Systems — *60 hours*
+- **MF0490_3:** IT System Service Management — *90 hours*
+- **MP0175:** Information Security (Professional Work Placement Module) — *80 hours*
+
+---
+
+<img src="./assets/the_bridge.png" width="40"/> **The Bridge | Digital Talent Accelerator, 360h - 2024**
+<details>
+  <summary>🔐 MODULE 1 - Fundamentals of Security and Systems:</summary>
+      
+    - Bash scripts for task automation.
+    - HTML and JavaScript.
+    - Network packet analysis.
+    - OSI model.
+    - Cryptographic protocols.
+    - Pentesting and vulnerability analysis.
+    - Python scripts.
+</details>
+
+<details>
+  <summary>🚩 MODULE 2 - Offensive Security / Red Team:</summary>
+      
+    - Internal and external audits.
+    - Creating technical reports and identifying risks.
+    - Developing cybersecurity projects.
+    - Monitoring of network security and testing.
+    - Vulnerability assessments and risk analysis.
+    - Best practices.
+</details>
+
+<details>
+  <summary>🛡️ MODULE 3 - Defensive Security / Blue Team:</summary>
+      
+    - Security risks and protecting of assets.
+    - Forensic analysis reports.
+    - Detecting threats and cyberattacks.
+    - Monitoring network security (software, firewalls, encryption).
+    - SIEM systems.
+</details>
 
 ---
 
@@ -66,41 +101,7 @@
 
 ## 📚 Education
 
-- 🌱 I’m currently studying **IFCT0109 - Computer Security** (500h, IronHack, Official Level 3/C Professional Certificate, 2025).
 - 🎓 BTEC L4 Higher National Certificate in Computing (MSMK University, 2024)
-- 📜 Cybersecurity Bootcamp (360h, The Bridge | Digital TalentAccelerator, 2024)
-    <details>
-      <summary>🔐 MODULE 1 - Fundamentals of Security and Systems:</summary>
-      
-      - Bash scripts for task automation.
-      - HTML and JavaScript.
-      - Network packet analysis.
-      - OSI model.
-      - Cryptographic protocols.
-      - Pentesting and vulnerability analysis.
-      - Python scripts.
-    </details>
-
-    <details>
-      <summary>🚩 MODULE 2 - Offensive Security / Red Team:</summary>
-      
-      - Internal and external audits.
-      - Creating technical reports and identifying risks.
-      - Developing cybersecurity projects.
-      - Monitoring of network security and testing.
-      - Vulnerability assessments and risk analysis.
-      - Best practices.
-    </details>
-
-    <details>
-      <summary>🛡️ MODULE 3 - Defensive Security / Blue Team:</summary>
-      
-      - Security risks and protecting of assets.
-      - Forensic analysis reports.
-      - Detecting threats and cyberattacks.
-      - Monitoring network security (software, firewalls, encryption).
-      - SIEM systems.
-    </details>
   
   #### 🔧 **TOOLS**
 ![Wireshark](https://img.shields.io/badge/tool-Wireshark-green) ![Burp Suite](https://img.shields.io/badge/tool-Burp_Suite-orange) ![Nmap](https://img.shields.io/badge/tool-Nmap-blue) ![Metasploit](https://img.shields.io/badge/tool-Metasploit-red) ![Kali Linux](https://img.shields.io/badge/tool-Kali_Linux-black) <br>
